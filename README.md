@@ -41,6 +41,9 @@ NuSegDG
 |   ├── mask_1024
 │     ├── TCGA-21-5784-01Z-00-DX1.png
 |     ├── ...
+|   ├── DensityMap
+│     ├── TCGA-21-5784-01Z-00-DX1.png
+|     ├── ...
 ```
 
 
