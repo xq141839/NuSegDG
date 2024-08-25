@@ -46,6 +46,16 @@ NuSegDG
 |     ├── ...
 ```
 
+## 📜Citation
+If you find this work helpful for your project, please consider citing the following paper:
+```
+@article{lou2024nusegdg,
+  title={NuSegDG: Integration of Heterogeneous Space and Gaussian Kernel for Domain-Generalized Nuclei Segmentation},
+  author={Lou, Zhenye and Xu, Qing and Jiang, Zekun and He, Xiangjian and Chen, Zhen and Wang, Yi and Li, Chenxin and He, Maggie M and Duan, Wenting},
+  journal={arXiv preprint arXiv:2408.11787},
+  year={2024}
+}
+```
 
 ## 🎈Acknowledgements
 Greatly appreciate the tremendous effort for the following projects!
