@@ -2,7 +2,7 @@
 
 :pushpin: This is an official PyTorch implementation of **NuSegDG: Integration of Heterogeneous Space and Gaussian Kernel for Domain-Generalized Nuclei Segmentation**
 
-[[`arXiv`]()] [[`BibTeX`]()]
+[[`arXiv`](https://arxiv.org/abs/2408.11787)] [[`BibTeX`](https://scholar.googleusercontent.com/scholar.bib?q=info:5dd80O9YdlwJ:scholar.google.com/&output=citation&scisdr=ClEWMSDREKieyH-ljbE:AFWwaeYAAAAAZsqjlbFJ6b4dsop8Vuw6Q8w_Dzk&scisig=AFWwaeYAAAAAZsqjlUd0m9H7J9n4zZNxl9Sj-a8&scisf=4&ct=citation&cd=-1&hl=en)]
 
 
 <div align="center">
